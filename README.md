@@ -1,6 +1,6 @@
 # Machine Learning Notebooks
 
-These are some notebooks 
+These are some notebooks related to training different types of machine learning algorithms to solve problems.
 
 The [Titanic](./titanic) folder contains a simple feedforward network that predicts whether passengers on the ship will survive.
 
