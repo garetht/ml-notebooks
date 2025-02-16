@@ -1,0 +1,11 @@
+bin
+etc
+lib
+share
+.idea
+CACHEDIR.TAG
+*.zip
+*.csv
+pyvenv.cfg
+.DS_Store
+**/.ipynb_checkpoints/**
